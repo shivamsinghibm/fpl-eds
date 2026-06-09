@@ -1,0 +1,11 @@
+{
+    "mappings": [
+      "/content/fpl-site/:/",
+      "/content/dam/fpl-site/:/assets/",
+	  "/content/shivamsinghibm/configuration:/.helix/config.json"
+    ],
+    "includes": [
+      "/content/fpl-site/",
+      "/content/dam/fpl-site/"
+    ]
+}

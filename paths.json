@@ -1,12 +1,12 @@
 {
     "paths": {
     "mappings": [
-      "/content/fpl-site/:/",
-      "/content/dam/fpl-site/:/assets/"
+      "/content/fpl-eds/:/",
+      "/content/dam/fpl-eds/:/assets/"
     ],
     "includes": [
-      "/content/fpl-site/",
-      "/content/dam/fpl-site/"
+      "/content/fpl-eds/",
+      "/content/dam/fpl-eds/"
     ]
 }
 }
